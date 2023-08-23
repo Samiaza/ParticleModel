@@ -345,7 +345,7 @@ class IOField:
 
 fld = Field(WIDTH - interface_width, HEIGHT, colors['silver'])
 # fld.add_sphere(400, HEIGHT // 2, 30, 5, 0, 0, colors['purple'])
-# fld.add_sphere(30, HEIGHT // 2, 30, 1000, 0, 2, colors['red'])
+# fld.add_sphere(30, HEIGHT // 2, 30, 1000, 0, 0.5, colors['red'])
 fld.fill(200, "", 10, 5, 0.3)
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
