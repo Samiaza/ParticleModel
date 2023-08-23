@@ -361,7 +361,7 @@ button_speed_inc = Button(screen, "SpeedUp", 1160, 580, 110, 60, 15)
 input_field_sph_index = IOField(screen, 890, 260, 120, 60, (210, 210, 210))
 fld.tracked_sph_index = 1
 input_field_sph_index.set_content(str(fld.tracked_sph_index))
-button_track_sph = Button(screen, "Track corpuscle", 1020, 260, 250, 60, 15)
+button_track_sph = Button(screen, "Track particle", 1020, 260, 250, 60, 15)
 
 # output_field_tracked_sph_header = IOField(screen, 890, 340, 380, 50, (127, 255, 127))
 # output_field_tracked_sph_header.set_content("Tracked corpuscle info:")
