@@ -6,7 +6,7 @@
 
 ##Demo
 ###Взаимодействие идентичных частиц
-![SimpleInteraction](misc/images/SimpleInteraction.png)
+![SimpleInteraction](misc/images/SimpleInteraction.gif)
 
 
 
